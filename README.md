@@ -1,0 +1,2 @@
+# HAJIUSHI_FIRST_TEST
+哈就是的第一次测试
